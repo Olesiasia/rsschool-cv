@@ -1,5 +1,7 @@
 # Olesia Khekalo
 ***
+![photo] (C:/Users/savar/Desktop/other/photo1.jpg)
+***
 ## Contacts
 * Location: Ivano-Frankivsk, Ukraine
 * Phone: +380950629785
@@ -35,3 +37,6 @@ none
 * RS School
 ### English
 A2 (I had been practicing English, while I lived with my friends in Poland)
+
+
+[def]: C:\Users\savar\Desktop\Інше\photo1
